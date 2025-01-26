@@ -8,6 +8,12 @@
 # install.packages("DBI")
 # install.packages("RMySQL")
 
+mit_navn <- "Thomasabc1999"
+
+# Start på mit script
+print("Script start")
+Sys.time()
+
 library(dplyr)
 library(RSelenium)
 library(jsonlite)
@@ -77,8 +83,8 @@ if (length(hcab_table) == 0) {
   stop("Ingen tabeller fundet i HTML-svaret.")
 } else {
   hcab_dataframe <- as.data.frame(hcab_table[[1]])  # Konverter tabel til dataframe
-  print("Fundet tabel som dataframe:")
-  print(hcab_dataframe)
+  print("Fundet tabel som dataframe:hcab")
+#  print(hcab_dataframe)
 }
 
 
@@ -144,8 +150,8 @@ if (length(anholt_table) == 0) {
   stop("Ingen tabeller fundet i HTML-svaret.")
 } else {
   anholt_dataframe <- as.data.frame(anholt_table[[1]])  # Konverter tabel til dataframe
-  print("Fundet tabel som dataframe:")
-  print(anholt_dataframe)
+  print("Fundet tabel som dataframe:anholt")
+#  print(anholt_dataframe)
 }
 
 
@@ -211,8 +217,8 @@ if (length(banegaard_table) == 0) {
   stop("Ingen tabeller fundet i HTML-svaret.")
 } else {
   banegaard_dataframe <- as.data.frame(banegaard_table[[1]])  # Konverter tabel til dataframe
-  print("Fundet tabel som dataframe:")
-  print(banegaard_dataframe)
+  print("Fundet tabel som dataframe:banegaard")
+#  print(banegaard_dataframe)
 }
 
 
@@ -277,8 +283,8 @@ if (length(risoe_table) == 0) {
   stop("Ingen tabeller fundet i HTML-svaret.")
 } else {
   risoe_dataframe <- as.data.frame(risoe_table[[1]])  # Konverter tabel til dataframe
-  print("Fundet tabel som dataframe:")
-  print(risoe_dataframe)
+  print("Fundet tabel som dataframe:risoe")
+#  print(risoe_dataframe)
 }
 
 
@@ -506,4 +512,6 @@ for (i in 1:nrow(data_to_insert)) {
   })
 }
 
-
+# Slut på mit script
+print("Script slut")
+Sys.time()

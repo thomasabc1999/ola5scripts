@@ -1,1 +1,1 @@
-"C:\Program Files\R\R-4.4.2\bin\Rscript.exe" "C:\Users\Administrator\Desktop\Miljødata_scrape.R" > "C:\Users\Administrator\Desktop\Scripts\logfile.txt" 2>&1
+"C:\Program Files\R\R-4.4.2\bin\Rscript.exe" "C:\Users\Administrator\Desktop\Miljødata2.R" > "C:\Users\Administrator\Desktop\Scripts\logfile.txt" 2>&1
