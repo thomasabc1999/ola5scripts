@@ -9,6 +9,7 @@
 # install.packages("RMySQL")
 
 mit_navn <- "Thomasabc1999"
+mit_fulde_navn <- "Thomasabchansen"
 
 # Start på mit script
 print("Script start")
