@@ -1,5 +1,5 @@
 [1] "Script start"
-[1] "2025-01-27 11:30:06 UTC"
+[1] "2025-01-27 12:13:05 UTC"
 
 Attaching package: 'dplyr'
 
@@ -11,13 +11,13 @@ The following objects are masked from 'package:base':
 
     intersect, setdiff, setequal, union
 
-[1] "eLtyUtce7IbMj-MY_ENuGsovWXc28Zml1oRuTVcs5Krdc8XOt99ZTUQt0ApQytOrvI8ArGOBjgmgUzovcWDPmDdScrALTM_LWoQhHeuGOJ41"
+[1] "V7kMGawCAb_Uv9T2VOr62m4VeZAZZYJlI251Sx2JaweTQ2DqlP566bWFRLBPSDlO95m-nV2HzJ5H_4P_STmYdyFtrZ0VwtPsCEnApDl5zJQ1"
 [1] "Fundet tabel som dataframe:hcab"
-[1] "Fundet token: HcZWts0XZ8riBmKOGkP36xEKodRbpwa6kwFaGkr85arMOw3ee5_8VV50I-aXAYH_Am8uzjHGzdL5R3D3y8ri_GuhJdil-dJY9_yUdNjLID41"
+[1] "Fundet token: KXknU7Rm_96e2P9JsMzto7svHYVhFGmC0I5qnr6T8G7nLP_vr1c4w5_mvid2K-8JHkR4H70nKmZmG1d95VWENzJU665Jlt1ZTIOjSRdBJks1"
 [1] "Fundet tabel som dataframe:anholt"
-[1] "Fundet token: xzX3Of2aD27VL53otIDbgzSjSQ0n5EyitIPc_bGEWYs636imZcPEN0IVXL_vYUmOJvsHTCK-OkV-hWaf92Egx5nOoyf6D9BEGPVGsW-alwY1"
+[1] "Fundet token: MU6kMdRPUrJ74GmiK-hmIy5vWEEJrwJGD9e4PG7wNf-xsAO5L1jURyZjW0fWsAQ5l9bwdBJvNfQqdH7ljLP9ChkwOWY93XPBUZQS-8lbl-81"
 [1] "Fundet tabel som dataframe:banegaard"
-[1] "Fundet token: fxffQxaKbJcH89kkIb3TQTHuDyq6aPgfiOB7679a8TrI8KOXFF952uQoE8LeiqDrcEmXIRbvcR8qkW2shtmjijTLGaZAOvPBadlX1zr1A601"
+[1] "Fundet token: sCKZlbMtWkaWl_UJ9mW_D9c7wWvhYt0tDhr24t64h6fvEjf47i1x3iniS8vy6tEeSaQFfafGNVLocXaeyl6Bg4VwxoN4_mwShjte2pMKvwg1"
 [1] "Fundet tabel som dataframe:risoe"
 [1] "starttid"   "CO"         "NO2"        "NOX"        "SO2"       
 [6] "O3"         "PM10"       "PM2.5"      "ScrapeTime"
@@ -27,4 +27,4 @@ The following objects are masked from 'package:base':
 [1] "starttid"   "CO"         "NO2"        "NOX"        "O3"        
 [6] "PM10"       "ScrapeTime"
 [1] "Script slut"
-[1] "2025-01-27 11:31:11 UTC"
+[1] "2025-01-27 12:16:16 UTC"
