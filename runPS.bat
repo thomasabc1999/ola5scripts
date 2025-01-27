@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File "C:\Users\Administrator\Desktop\Scripts\RunRScript.ps1"
